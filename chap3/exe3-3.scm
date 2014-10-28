@@ -24,6 +24,3 @@
 ((acc 'some-other-password 'deposit) 50) ;;Incorrect password
 
 ((acc 'secret-password 'deposit) 40) ;;100
-
-
-
